@@ -1,0 +1,56 @@
+h1{
+    color: white;    
+}
+
+body {
+    background-color: #fba4cb;
+    text-align: center;
+}
+
+h3 {
+    width: 35%;
+    margin: 5px auto;
+    text-align: left;
+}
+
+p{
+    color: white;
+}
+
+.first{
+    width: 35%;
+    margin: 0 auto;
+}
+
+.second{
+    width: 30%;
+    font-size: 2.5em;
+    margin: 30px auto;
+}
+
+h4 {
+    display: inline;
+}
+
+.third {
+    display: block;
+    width: 26%;
+    margin: 0 auto;
+}
+
+img {
+    width: 10%;
+    display: block;
+    margin: 20px auto;
+}
+
+.enfasis {
+    color: white;
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+h1:hover {
+    color: black;
+}
