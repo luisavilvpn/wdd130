@@ -86,7 +86,7 @@ footer .social img {
 }
 
 .home-title {
-    font-family: "Montserrat Alternates", "Helvetica", "sans-serif";
+    font-family: "Montserrat Alternates", Helvetica, Arial;
     color: #134266;
     font-size: 2em;
     margin-top: 10px;
@@ -101,7 +101,7 @@ h2 {
 }
 
 .msg h2 {
-    font-family: "Montserrat Alternates", "Helvetica", "sans-serif";
+    font-family: "Montserrat Alternates", Helvetica, Arial;
     color: #E2B144;
 }
 
